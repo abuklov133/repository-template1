@@ -1,2 +1,2 @@
 # repository-template1
-Второй раз изучение gityub
+Второй раз изучение github
